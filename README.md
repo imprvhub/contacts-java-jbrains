@@ -1,2 +1,2 @@
-# contacts-java
+# contacts-java-jbrains
 This Java console application is designed for managing contact information, providing functionality similar to that found on mobile phones. It allows users to create new contacts and search for individuals or organizations by their names. It incorporates the Command Pattern and Abstract Method as design patterns. This project makes use of various technologies, including Java Reflection, Expressions, Polymorphism, Abstract Classes, Serialization, Stream API, Collections, Recursion, Enumerations, and Generics. It represents one of the most challenging project stages on the JetBrains Academy platform!
